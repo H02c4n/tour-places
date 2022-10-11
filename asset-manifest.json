@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tour-places/static/css/main.d146e76a.css",
+    "main.js": "/tour-places/static/js/main.e21a931f.js",
+    "index.html": "/tour-places/index.html",
+    "main.d146e76a.css.map": "/tour-places/static/css/main.d146e76a.css.map",
+    "main.e21a931f.js.map": "/tour-places/static/js/main.e21a931f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d146e76a.css",
+    "static/js/main.e21a931f.js"
+  ]
+}
